@@ -1,0 +1,15 @@
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\bin\Debug\net7.0\ArticleStore.Application.deps.json
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\bin\Debug\net7.0\ArticleStore.Application.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\bin\Debug\net7.0\ArticleStore.Application.pdb
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\obj\Debug\net7.0\ArticleStore.Application.csproj.AssemblyReference.cache
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\obj\Debug\net7.0\ArticleStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\obj\Debug\net7.0\ArticleStore.Application.AssemblyInfoInputs.cache
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\obj\Debug\net7.0\ArticleStore.Application.AssemblyInfo.cs
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\obj\Debug\net7.0\ArticleStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\obj\Debug\net7.0\ArticleStore.Application.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\obj\Debug\net7.0\refint\ArticleStore.Application.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\obj\Debug\net7.0\ArticleStore.Application.pdb
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\obj\Debug\net7.0\ref\ArticleStore.Application.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\bin\Debug\net7.0\ArticleStore.Domain.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\bin\Debug\net7.0\ArticleStore.Domain.pdb
+C:\Users\HP\source\ArticleStore\ArticleStore.Application\obj\Debug\net7.0\ArticleStore.Application.csproj.CopyComplete

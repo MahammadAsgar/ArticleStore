@@ -1,0 +1,15 @@
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\bin\Debug\net7.0\ArticleStore.Persistance.deps.json
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\bin\Debug\net7.0\ArticleStore.Persistance.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\bin\Debug\net7.0\ArticleStore.Persistance.pdb
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\obj\Debug\net7.0\ArticleStore.Persistance.csproj.AssemblyReference.cache
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\obj\Debug\net7.0\ArticleStore.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\obj\Debug\net7.0\ArticleStore.Persistance.AssemblyInfoInputs.cache
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\obj\Debug\net7.0\ArticleStore.Persistance.AssemblyInfo.cs
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\obj\Debug\net7.0\ArticleStore.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\obj\Debug\net7.0\ArticleStore.Persistance.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\obj\Debug\net7.0\refint\ArticleStore.Persistance.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\obj\Debug\net7.0\ArticleStore.Persistance.pdb
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\obj\Debug\net7.0\ref\ArticleStore.Persistance.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\bin\Debug\net7.0\ArticleStore.Domain.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\bin\Debug\net7.0\ArticleStore.Domain.pdb
+C:\Users\HP\source\ArticleStore\ArticleStore.Persistance\obj\Debug\net7.0\ArticleStore.Persistance.csproj.CopyComplete

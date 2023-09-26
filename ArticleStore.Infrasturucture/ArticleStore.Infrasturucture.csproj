@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArticleStore.Application\ArticleStore.Application.csproj" />
+    <ProjectReference Include="..\ArticleStore.Persistance\ArticleStore.Persistance.csproj" />
+    <ProjectReference Include="..\ArticleStore.Result\ArticleStore.SharedLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="4.2.0" />
+  </ItemGroup>
+
+</Project>

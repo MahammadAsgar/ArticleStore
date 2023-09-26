@@ -1,0 +1,12 @@
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\bin\Debug\net7.0\ArticleStore.SharedLibrary.deps.json
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\bin\Debug\net7.0\ArticleStore.SharedLibrary.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\bin\Debug\net7.0\ArticleStore.SharedLibrary.pdb
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.SharedLibrary.AssemblyInfo.cs
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.SharedLibrary.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\refint\ArticleStore.SharedLibrary.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.SharedLibrary.pdb
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ref\ArticleStore.SharedLibrary.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ArticleStore.Result/1.0.0": {
+        "runtime": {
+          "ArticleStore.Result.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArticleStore.Result/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

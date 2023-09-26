@@ -1,0 +1,12 @@
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\bin\Debug\net7.0\ArticleStore.Result.deps.json
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\bin\Debug\net7.0\ArticleStore.Result.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\bin\Debug\net7.0\ArticleStore.Result.pdb
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.Result.csproj.AssemblyReference.cache
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.Result.AssemblyInfoInputs.cache
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.Result.AssemblyInfo.cs
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.Result.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.Result.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\refint\ArticleStore.Result.dll
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ArticleStore.Result.pdb
+C:\Users\HP\source\ArticleStore\ArticleStore.Result\obj\Debug\net7.0\ref\ArticleStore.Result.dll
