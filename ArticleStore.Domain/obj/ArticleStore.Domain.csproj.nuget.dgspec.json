@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\ArticleStore\\ArticleStore.Domain\\ArticleStore.Domain.csproj": {}
+    "C:\\Users\\Mahammad\\GoodJobs\\ArticleStore.Domain\\ArticleStore.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\ArticleStore\\ArticleStore.Domain\\ArticleStore.Domain.csproj": {
+    "C:\\Users\\Mahammad\\GoodJobs\\ArticleStore.Domain\\ArticleStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\ArticleStore\\ArticleStore.Domain\\ArticleStore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Mahammad\\GoodJobs\\ArticleStore.Domain\\ArticleStore.Domain.csproj",
         "projectName": "ArticleStore.Domain",
-        "projectPath": "C:\\Users\\HP\\source\\ArticleStore\\ArticleStore.Domain\\ArticleStore.Domain.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\ArticleStore\\ArticleStore.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Mahammad\\GoodJobs\\ArticleStore.Domain\\ArticleStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\Mahammad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mahammad\\GoodJobs\\ArticleStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Mahammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.111\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

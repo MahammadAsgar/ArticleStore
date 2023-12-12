@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\ArticleStore\\ArticleStore.Result\\ArticleStore.SharedLibrary.csproj": {}
+    "C:\\Users\\Mahammad\\GoodJobs\\ArticleStore.Result\\ArticleStore.SharedLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\ArticleStore\\ArticleStore.Result\\ArticleStore.SharedLibrary.csproj": {
+    "C:\\Users\\Mahammad\\GoodJobs\\ArticleStore.Result\\ArticleStore.SharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\ArticleStore\\ArticleStore.Result\\ArticleStore.SharedLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Mahammad\\GoodJobs\\ArticleStore.Result\\ArticleStore.SharedLibrary.csproj",
         "projectName": "ArticleStore.SharedLibrary",
-        "projectPath": "C:\\Users\\HP\\source\\ArticleStore\\ArticleStore.Result\\ArticleStore.SharedLibrary.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\ArticleStore\\ArticleStore.Result\\obj\\",
+        "projectPath": "C:\\Users\\Mahammad\\GoodJobs\\ArticleStore.Result\\ArticleStore.SharedLibrary.csproj",
+        "packagesPath": "C:\\Users\\Mahammad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mahammad\\GoodJobs\\ArticleStore.Result\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Mahammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.111\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
